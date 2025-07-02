@@ -84,9 +84,9 @@ Mohammed Raiyan A
 <br>
 _Data Analytics Enthusiast | Final Year CSE Student_
 <br>  
-Portfolio : (http://mdraiyan.ct.ws/)
+[Portfolio](http://mdraiyan.ct.ws/)
 <br>
-LinkedIn : (https://www.linkedin.com/in/mohammed-raiyan21/)
+[LinkedIn](https://www.linkedin.com/in/mohammed-raiyan21/)
 <br>
-GitHub : (https://github.com/mohammedraiyan05/)
+[GitHub]https://github.com/mohammedraiyan05/)
 
